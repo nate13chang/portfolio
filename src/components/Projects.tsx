@@ -10,6 +10,14 @@ const projects = [
       tech: ["React", "TypeScript", "Next.js", "PostgreSQL", "Prisma ORM", "Tailwind"],
     live: "https://www.joycofoods.com/",
   },
+  {
+    title: "Python Document ETL and Automation (Contracted work)",
+    description:
+      "Developed an automated ETL pipeline to extract structured data from 10,000+ pages of PDFs within a 3-day deadline. Engineered pattern based parsing using PyMuPDF and built a scalable data processing workflow with Pandas, producing formatted Excel outputs via XlsxWriter that matched client defined constraints. Reduced manual review time from weeks to hours. Code repository is private due to confidential client data.",
+    tech: ["Python", "Pandas", "PyMuPDF", "Excel", "XlsxWriter"],
+    live: null,
+    repo: "Private (Confidential Client Project)",
+  },
 ];
 
 const Projects = () => {
