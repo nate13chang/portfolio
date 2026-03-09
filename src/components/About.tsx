@@ -86,7 +86,7 @@ const About = () => {
                 <div className="w-full aspect-square flex items-center justify-center">
                   <span className="text-6xl">
                     <img
-                      src={'face.jpg'}>
+                      src={'/portfolio/face.jpg'}>
                     </img>
                   </span>
                 </div>
