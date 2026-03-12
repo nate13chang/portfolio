@@ -19,7 +19,7 @@ const projects = [
     repo: "Private (Confidential Client Project)",
   },
   { title: "Discord Music Bot", 
-    description: "Developed a personal music bot for usage on discord calls within servers. Allows Youtube links and queries to be entered and plays the audio of the song as playback.", 
+    description: "Created a Discord music bot that streams YouTube audio to voice channels, supporting song playback through direct links or search queries. Implemented a modular architecture, a queue management system, and playback features including shuffle and loop for interactive server music sessions.", 
     tech:["Python", "Discord.py", "Asyncio", "Urllib"], 
     live: "https://github.com/nate13chang/musicBot", 
   },
