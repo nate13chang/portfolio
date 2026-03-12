@@ -18,6 +18,11 @@ const projects = [
     live: null,
     repo: "Private (Confidential Client Project)",
   },
+  { title: "Discord Music Bot", 
+    description: "Developed a personal music bot for usage on discord calls within servers. Allows Youtube links and queries to be entered and plays the audio of the song as playback.", 
+    tech:["Python", "Discord.py", "Asyncio", "Urllib"], 
+    live: "https://github.com/nate13chang/musicBot", 
+  },
 ];
 
 const Projects = () => {
